@@ -4,7 +4,7 @@
 ## Description
   
 This repo contains a cover, banner, and tile backup for 2,683 games. Some images may contain generic placeholders, those generic images were how they were stored on Xbox.com when they were pulled.
-<br />
+<br /> <br />
 Each image set is stored within a folder named after the games respective title ID.
   
 ## What is a Title ID?
